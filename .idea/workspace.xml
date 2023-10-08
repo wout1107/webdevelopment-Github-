@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -60,7 +60,8 @@
       <workItem from="1695912107953" duration="437000" />
       <workItem from="1696428173954" duration="4035000" />
       <workItem from="1696511847524" duration="9308000" />
-      <workItem from="1696675302400" duration="2026000" />
+      <workItem from="1696675302400" duration="3527000" />
+      <workItem from="1696754708277" duration="2161000" />
     </task>
     <servers />
   </component>
