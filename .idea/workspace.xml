@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,7 +49,11 @@
       <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo4\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo2" />
+      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo6\Opdracht6\Images" />
+      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo6\Opdracht6" />
+      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo6\Opdracht5" />
+      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo6\Opdracht4" />
+      <recent name="C:\Users\woutd\OneDrive - Hogeschool VIVES\Documenten\Web Development\webdevelopment-Github-\Labo6\Opdracht3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,6 +80,9 @@
       <workItem from="1697728781890" duration="1313000" />
       <workItem from="1697787097838" duration="5055000" />
       <workItem from="1697963734963" duration="1464000" />
+      <workItem from="1698241362731" duration="1610000" />
+      <workItem from="1698335370061" duration="9076000" />
+      <workItem from="1698431054887" duration="2557000" />
     </task>
     <servers />
   </component>

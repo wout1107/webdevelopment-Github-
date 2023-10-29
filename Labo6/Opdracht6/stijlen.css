@@ -1,0 +1,16 @@
+li, .checked
+{
+    background-image: url("Images/cheched.png");
+    background-size: 15px;
+    background-position: left;
+    padding-left: 25px;
+    background-repeat: no-repeat;
+}
+li
+{
+    background-image: url("Images/not checked.png");
+    background-size: 15px;
+    background-position: left;
+    padding-left: 25px;
+    background-repeat: no-repeat;
+}
