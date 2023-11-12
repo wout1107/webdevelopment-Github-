@@ -1,0 +1,114 @@
+.header
+{
+    text-decoration: underline;
+    font-family: Helvetica sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+body
+{
+    font-family: Helvetica sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.persoonlijkeInformatie > ul > li > a, .hobbys > ul > li > a, .likes > ul > li > a
+{
+    text-decoration: none;
+    color: navajowhite;
+}
+.persoonlijkeInformatie > ul > li, .hobbys > ul > li, .likes > ul > li
+{
+    list-style-type: none;
+}
+.persoonlijkeInformatie > ul > li > img, .hobbys > ul > li > img, .likes > ul > li > img
+{
+    width: 50%;
+}
+.persoonlijkeInformatie, .hobbys, .likes
+{
+    list-style-type: none;
+    border-color: firebrick;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+    margin-left: 40px;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: firebrick;
+    color: navajowhite;
+}
+
+.fotoWout
+{
+    margin-right: 60px;
+    display: block;
+    float: right;
+}
+.tussentitel
+{
+    background-image: url('../Images/fotoKleur.jpg');
+    margin-bottom: 50px;
+    height: 205px;
+}
+.tussentitel h2
+{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+.clear
+{
+    clear: both;
+}
+.datagrid table
+{
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+.datagrid
+{
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    background: #fff;
+    overflow: hidden;
+    border: 4px solid #000000;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+}
+.datagrid table td, .datagrid table th
+{
+    padding: 2px 14px;
+}
+.datagrid table thead th
+{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #000000) );
+    background:-moz-linear-gradient( center top, #000000 5%,#000000 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000');
+    background-color:#000000; color:#FFFFFF; font-size: 15px; font-weight: bold; border-left: 3px solid #81A4B3;
+}
+.datagrid table thead th:first-child
+{
+    border: none;
+}
+.datagrid table tbody td
+{
+    color: #275420;
+    border-left: 3px solid #81A4B3;
+    font-size: 12px;
+    font-weight: normal;
+}
+.datagrid table tbody .alt td
+{
+    background: #A2ACB0; color: #DEDEDE;
+}
+.datagrid table tbody td:first-child
+{
+    border-left: none;
+}
+.datagrid table tbody tr:last-child td
+{
+    border-bottom: none;
+}

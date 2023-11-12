@@ -1,0 +1,43 @@
+.hoofdding
+{
+    background-image: url("Images/header.jpg");
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
+}
+nav
+{
+    padding: 10px;
+    background-color: black;
+}
+nav > a
+{
+    color: #ADFF2F;
+    background-color: black;
+    text-decoration: none;
+}
+.hoofdding h1
+{
+    font-size: 35px;
+    color: #FFFFFF;
+    margin-top: 5px;
+}
+body
+{
+    margin: 0 auto;
+    width: 1200px;
+    font-family: Arial sans-serif;
+}
+article
+{
+    background-color: lightgray;
+}
+article header
+{
+    text-decoration: underline;
+    font-size: 30px;
+}
+footer
+{
+    padding: 15px 0;
+}
