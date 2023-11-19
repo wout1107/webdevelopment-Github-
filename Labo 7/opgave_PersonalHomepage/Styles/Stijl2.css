@@ -1,0 +1,93 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a black background color for the body */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style the main container */
+main {
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Style the header */
+.header {
+    color: #4CAF50;
+    text-align: center;
+}
+
+/* Style the section titles */
+.tussentitel h2 {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+/* Style the personal information section */
+.persoonlijkeInformatie ul {
+    list-style: none;
+    padding: 0;
+}
+
+.persoonlijkeInformatie li {
+    margin-bottom: 5px;
+}
+
+/* Style the photo */
+.fotoWout img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Style the hobbies and likes sections */
+.hobbys, .likes {
+    list-style: none;
+    padding: 0;
+}
+
+.hobbys li, .likes li {
+    margin-bottom: 10px;
+}
+
+/* Style the links in the likes section */
+.likes a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.likes a:hover {
+    text-decoration: underline;
+}
+
+/* Style the table */
+.datagrid table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.datagrid th, .datagrid td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.datagrid th {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+/* Style alternate rows in the table */
+.datagrid tr.alt {
+    background-color: #f9f9f9;
+}
