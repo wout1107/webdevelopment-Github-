@@ -39,28 +39,13 @@ const methode = () =>
     }
     let lijst = favorieteBuurland[0].options
     for (let i = 0; i < lijst.length; i++) {
-        if(lijst[i].selected)
-        {
+        if(lijst[i].selected) {
             console.log("favoriete buurland is " + lijst[i].text)
-        }
-    }
-
-    let lijst2 = bestellingen[0].options
-    let print = "De bestelling bestaat uit "
-    let count = 0;
-    for (let i = 0; i < lijst2.length; i++) {
-        if(lijst2[i].selected)
-        {
-            print += lijst2[i].text + " "
-            count++
-        }
-    }
-    if(count == 0)
-    {
-        print += "niets"
+        }}
     }
 
     console.log(print)
+
 
 
 }
